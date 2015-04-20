@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1199118437 source:c:\c_cpp\vclass\projects\tree\main.cpp
+	<iostream>
+	"Node.h"
+
+1199121016 c:\c_cpp\vclass\projects\tree\include\node.h
+
+1199119193 source:c:\c_cpp\vclass\projects\tree\src\node.cpp
+	"Node.h"
+
+1199122888 source:d:\runtimeerror\tree\main.cpp
+	<iostream>
+	"Node.h"
+
+1429519235 d:\runtimeerror\tree\include\node.h
+
